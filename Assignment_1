@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="background-color: green;"><em>Zack Werner</em></h1>
+<div>My most recent getaway was to an Ashram in the Bahamas.  It was a very interesting experience, as it was less a vacation and more of a learning experience. We spent most of our day practicing yoga or helping in the communal kitchen preparing breakfast or dinner for the group of visitors and those enrolled in the YTT program.  It was the first getaway to an island country that I did not spend any time relaxing on the beach or by a pool, but it was a wonderful and intraspective experience.</div>
+
+<p>Here is a list of my favorite pet names with the corresponding animal.</p>
+<ol> <li>Landmine - Schnauzer (Dog)</li>
+<li>Packwood - Pumi (Dog)</li>
+<li>James Earl Jones - Persian (Cat)</li> </ol>
+
+<P>My favorite local restaurant is <a href= "https://piscessushi.com/charlotte" target="_blank">Pisces Sushi Lounge</a>
+Here are a few reasons why it is my favorite:
+    <ul><li>The sushi is fresh</li>
+    <li>They do not advertise "Sushi-Grade fish" (as that should be a given)</li>
+    <li>Their food score is above 95 and prominently displayed, which calms my inner food nerd</li></ul></P>
+
+<table>
+    <tr>
+        <th>Book Name</th>
+        <th>Image</th>
+        <th>Author</th>
+        <th>Summary</th>
+    </tr>
+    <tr>
+        <td>The Tibetan Book of Living and Dying</td>
+        <td><img src='images/Tibetan.jpeg' width='150'></td>
+        <td>Sogyl Rinpoche</td>
+        <td>A Dzogchen Buddhist staple, which explores meditation, personal practice, karma and rebirth.</td>
+    </tr>
+    <tr>
+        <td>Bhagavad Gita</td>
+        <td><img src='images/Gita.jpg' width='150'></td>
+        <td>Veda Vyasa</td>
+        <td>Part of the larger Hindu epic Mahabharata, which covers the duality of 2 selves, the individual self and the Godself.  The dialogue of Arjuna and Krishna explore duality of the 2 waring selves on the field of battle.</td>
+    </tr>
+    <tr>
+        <td><a href= "https://xkcd.com" target="_blank">XKCD</a></td>
+        <td><img src='images/XKCD.png' width='150'></td>
+        <td>Randall Munroe</td>
+        <td>A webcomic of romance, sarcasm, math and language.  Nerdy comics that either fly way over my head, or find me laughing out loud.</td>
+    </tr>
+    <tr>
+        <td>Something Wicked This Way Comes</td>
+        <td><img src='images/Wicked.jpg' width='150'></td>
+        <td>Ray Bradbury</td>
+        <td>A dark fantasy story about 2 boys confronting fear through their nightmarish experience with Mr. Dark, the leader of a traveling carnival.</td>
+    </tr>
+</table>
+
+</body>
+</html>
